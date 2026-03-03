@@ -4,7 +4,7 @@
 
 | 项目 | 漏洞/报告 | 链接 | 简要说明 |
 | --- | --- | --- | --- |
-| Dify | SSRF | https://github.com/langgenius/dify/pull/31678 | SSRF 修复 PR |
+| Dify | SSRF | CVE-2026-28504 | SSRF  |
 | SiYuan Note | 文件读取接口大小写绕过（CVE-2026-25992） | https://github.com/siyuan-note/siyuan/security/advisories/GHSA-f72r-2h5j-7639 | 大小写不敏感文件系统下可绕过敏感路径拦截 |
 | Remotion | Windows RCE + 任意文件写入 | https://github.com/remotion-dev/remotion/pull/6378 | /api/open-in-file-explorer + /api/add-asset windows rce+任意文件上传 |
 
