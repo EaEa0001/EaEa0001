@@ -8,7 +8,8 @@
 | SiYuan Note | 文件读取接口大小写绕过（CVE-2026-25992） | CVE-2026-25992 | 大小写不敏感文件系统下可绕过敏感路径拦截 |
 | Remotion | Windows RCE  |  CVE-2026-30120 | 直接rce |
 | Remotion |  任意文件写入 |  CVE-2026-30121 |  文件上传|  GHSA-8r8h-6vcc-xhrv
-| Flowise |  越权漏洞 |  GHSA-8r8h-6vcc-xhrv |  越权漏洞，存在可能rce风险|
+| Flowise |  越权漏洞 |  GHSA-8r8h-6vcc-xhrv |  越权漏洞，存在可能rce风险| CVE-2026-20841
+| windows notepad |  rce | CVE-2026-20841 |  仅协助后续发现绕过 | 
 <!--
 **EaEa0001/EaEa0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
