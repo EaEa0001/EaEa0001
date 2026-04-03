@@ -10,6 +10,8 @@
 | Remotion |  任意文件写入 |  CVE-2026-30121 |  文件上传|  GHSA-8r8h-6vcc-xhrv
 | Flowise |  越权漏洞 |  GHSA-8r8h-6vcc-xhrv |  越权漏洞，存在可能rce风险| CVE-2026-20841
 | windows notepad |  rce | CVE-2026-20841 |  仅协助后续发现绕过 | 
+| openclaw | 越权| GHSA-5hff-46vh-rxmw | GHSA-5hff-46vh-rxmw
+| ragflow | rce | GHSA-m48p-c893-m984 | rce
 <!--
 **EaEa0001/EaEa0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
