@@ -12,6 +12,7 @@
 | windows notepad |  rce | CVE-2026-20841 |  仅协助后续发现绕过 | 
 | openclaw | 越权| GHSA-5hff-46vh-rxmw | GHSA-5hff-46vh-rxmw
 | ragflow | rce | CVE-2026-35513 | rce
+| zammad | 水 | CVE-2026-34720 | 水
 <!--
 **EaEa0001/EaEa0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
