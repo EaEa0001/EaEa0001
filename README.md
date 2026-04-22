@@ -10,7 +10,7 @@
 | Remotion |  任意文件写入 |  CVE-2026-30121 |  文件上传|  GHSA-8r8h-6vcc-xhrv
 | Flowise |  越权漏洞 |  GHSA-8r8h-6vcc-xhrv |  越权漏洞，存在可能rce风险| CVE-2026-20841
 | windows notepad |  rce | CVE-2026-20841 |  仅协助后续发现绕过 | 
-| openclaw | 越权| GHSA-5hff-46vh-rxmw | GHSA-5hff-46vh-rxmw
+| openclaw | 越权| CVE-2026-41298 | CVE-2026-41298
 | ragflow | rce | CVE-2026-35513 | rce
 | zammad | 水 | CVE-2026-34720 | 水
 <!--
