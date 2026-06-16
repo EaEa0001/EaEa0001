@@ -13,6 +13,7 @@
 | openclaw | 越权| CVE-2026-41298 | CVE-2026-41298
 | ragflow | rce | CVE-2026-35513 | rce
 | zammad | 水 | CVE-2026-34720 | 水
+| cloudreve | OA2绕过| CVE-2026-54560 | oa2 绕过 
 <!--
 **EaEa0001/EaEa0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
