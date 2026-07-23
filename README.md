@@ -54,25 +54,12 @@ Focus: Web/AppSec · Vulnerability Discovery & Responsible Disclosure
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EaEa0001&theme=chartreuse_dark" alt="Profile Details" />
+<img src="./profile-summary-card-output/chartreuse_dark/0-profile-details.svg" alt="Profile Details" />
 
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=EaEa0001&theme=chartreuse_dark" alt="GitHub Stats" />
-<img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=EaEa0001&theme=chartreuse_dark" alt="Repos per Language" />
+<img height="165" src="./profile-summary-card-output/chartreuse_dark/3-stats.svg" alt="GitHub Stats" />
+<img height="165" src="./profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg" alt="Repos per Language" />
 
 <img src="https://streak-stats.demolab.com?user=EaEa0001&background=0D1117&border=30363D&stroke=30363D&ring=00FF41&fire=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=C9D1D9" alt="GitHub Streak" />
-
-</div>
-
----
-
-### `~/featured`
-
-<div align="center">
-
-<a href="https://github.com/EaEa0001/kkRepo"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EaEa0001&repo=kkRepo&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" alt="kkRepo" /></a>
-<a href="https://github.com/EaEa0001/hermes-agent"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EaEa0001&repo=hermes-agent&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" alt="hermes-agent" /></a>
-<a href="https://github.com/EaEa0001/hermes-webui"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EaEa0001&repo=hermes-webui&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" alt="hermes-webui" /></a>
-<a href="https://github.com/EaEa0001/servu-cve-2026-28318-poc"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=EaEa0001&repo=servu-cve-2026-28318-poc&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=30363d" alt="servu-cve-2026-28318-poc" /></a>
 
 </div>
 
