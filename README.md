@@ -28,7 +28,7 @@ Focus: Web/AppSec · Vulnerability Discovery & Responsible Disclosure
 | 2 | SiYuan Note | Sensitive-path read bypass | [CVE-2026-25992](https://www.cve.org/CVERecord?id=CVE-2026-25992) | Case-insensitive filesystem bypass of path interception |
 | 3 | Remotion | RCE (Windows) | [CVE-2026-30120](https://www.cve.org/CVERecord?id=CVE-2026-30120) | Direct remote code execution |
 | 4 | Remotion | Arbitrary file write | [CVE-2026-30121](https://www.cve.org/CVERecord?id=CVE-2026-30121) | Via file upload |
-| 5 | Flowise | Broken access control | [GHSA-8r8h-6vcc-xhrv](https://github.com/advisories/GHSA-8r8h-6vcc-xhrv) | Privilege escalation, potential RCE |
+| 5 | Flowise | Broken access control |[CVE-2026-70471](https://www.cve.org/CVERecord?id=CVE-2026-70471) | Privilege escalation, potential RCE |
 | 6 | Windows Notepad | RCE | [CVE-2026-20841](https://www.cve.org/CVERecord?id=CVE-2026-20841) | Assisted in follow-up bypass discovery |
 | 7 | OpenClaw | Broken access control | [CVE-2026-41298](https://www.cve.org/CVERecord?id=CVE-2026-41298) | — |
 | 8 | RAGFlow | RCE | [CVE-2026-35513](https://www.cve.org/CVERecord?id=CVE-2026-35513) | Remote code execution |
