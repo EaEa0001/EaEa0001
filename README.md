@@ -34,7 +34,7 @@ Focus: Web/AppSec · Vulnerability Discovery & Responsible Disclosure
 | 8 | RAGFlow | RCE | [CVE-2026-35513](https://www.cve.org/CVERecord?id=CVE-2026-35513) | Remote code execution |
 | 9 | Zammad | Minor security issue | [CVE-2026-34720](https://www.cve.org/CVERecord?id=CVE-2026-34720) | Low-impact finding |
 | 10 | Cloudreve | OAuth2 bypass | [CVE-2026-54560](https://www.cve.org/CVERecord?id=CVE-2026-54560) | OAuth2 flow bypass |
-| 11 | Spring AI | DoS | CVE-2026-59339 | Confirmed as CVE (High), fix in progress — details after publication |
+| 11 | Spring AI | DoS | CVE-2026-59339 | |
  
 
 ---
