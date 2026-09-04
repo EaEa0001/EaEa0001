@@ -35,7 +35,7 @@ Focus: Web/AppSec · Vulnerability Discovery & Responsible Disclosure
 | 9 | Zammad | Minor security issue | [CVE-2026-34720](https://www.cve.org/CVERecord?id=CVE-2026-34720) | Low-impact finding |
 | 10 | Cloudreve | OAuth2 bypass | [CVE-2026-54560](https://www.cve.org/CVERecord?id=CVE-2026-54560) | OAuth2 flow bypass |
 | 11 | Spring AI | DoS | CVE-2026-59339 | |
-| 12 | MaxKB | sandbox escape |[CVE-2026-78164](https://github.com/1Panel-dev/MaxKB/security/advisories/GHSA-6h35-c779-4v37)|  sandbox escape
+| 12 | MaxKB | sandbox escape |[CVE-2026-79919](https://github.com/1Panel-dev/MaxKB/security/advisories/GHSA-6h35-c779-4v37)|  sandbox escape
 | 13 | Apache Camel | Template Injection | CVE-2026-78164
  
 
