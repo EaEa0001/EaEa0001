@@ -37,7 +37,7 @@ Focus: Web/AppSec · Vulnerability Discovery & Responsible Disclosure
 | 11 | Spring AI | DoS | CVE-2026-59339 | |
 | 12 | MaxKB | sandbox escape |[CVE-2026-79919](https://github.com/1Panel-dev/MaxKB/security/advisories/GHSA-6h35-c779-4v37)|  sandbox escape
 | 13 | Apache Camel | Template Injection | CVE-2026-78164
-| 14 | kata-containers | vm escape |GHSA-fgm4-mv68-h344 |https://github.com/kata-containers/kata-containers/security/advisories/GHSA-fgm4-mv68-h344
+| 14 | kata-containers | vm escape | CVE-2026-93417 |https://github.com/kata-containers/kata-containers/security/advisories/GHSA-fgm4-mv68-h344
 ---
 
 ### `~/arsenal`
