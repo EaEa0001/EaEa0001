@@ -34,10 +34,12 @@ Focus: Web/AppSec · Vulnerability Discovery & Responsible Disclosure
 | 8 | RAGFlow | RCE | [CVE-2026-35513](https://www.cve.org/CVERecord?id=CVE-2026-35513) | Remote code execution |
 | 9 | Zammad | Minor security issue | [CVE-2026-34720](https://www.cve.org/CVERecord?id=CVE-2026-34720) | Low-impact finding |
 | 10 | Cloudreve | OAuth2 bypass | [CVE-2026-54560](https://www.cve.org/CVERecord?id=CVE-2026-54560) | OAuth2 flow bypass |
-| 11 | Spring AI | DoS | CVE-2026-59339 | |
+| 11 | Spring AI | DoS | CVE-2026-59339 |  [cve-2026-59339](https://spring.io/security/cve-2026-59339) |
 | 12 | MaxKB | sandbox escape |[CVE-2026-79919](https://github.com/1Panel-dev/MaxKB/security/advisories/GHSA-6h35-c779-4v37)|  sandbox escape
-| 13 | Apache Camel | Template Injection | CVE-2026-78164|https://www.cve.org/CVERecord?id=CVE-2026-78164
-| 14 | kata-containers | vm escape | CVE-2026-93417 |https://github.com/kata-containers/kata-containers/security/advisories/GHSA-fgm4-mv68-h344
+| 13 | Apache Camel | Template Injection | CVE-2026-78164|https://www.cve.org/CVERecord?id=CVE-2026-78164|
+| 14 | kata-containers | vm escape | CVE-2026-93417 |https://github.com/kata-containers/kata-containers/security/advisories/GHSA-fgm4-mv68-h344|
+| 15 | Spring Data MongoDB | code Injection| [cve-2026-59342](https://spring.io/security/cve-2026-59342)| https://spring.io/security/cve-2026-59342
+| 16 | spring-data-neo4j| code injection | [CVE-2026-125080](https://neo4j.com/security/CVE-2026-125080/)| https://neo4j.com/security/CVE-2026-125080/
 ---
 
 ### `~/arsenal`
